@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Name:-Rishab Nambiar
+Name:-Rishabh Nambiar
 
 Branch:-ECE
 
